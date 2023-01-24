@@ -4,7 +4,7 @@ function Home() {
   return (
     <div id="home">
       <h1>
-        We are Web Developers from Moringa School softwres
+        We are Web Developers from Moringa School softwres gfvhg
       </h1>
     </div>
   );
